@@ -96,13 +96,13 @@ shares     (id, doc_id→documents, shared_by→users, shared_with→users, perm
 
 ## Features
 
-- ✅ Username-only login (no password, no email)
-- ✅ Rich text editing with Tiptap (bold, italic, headings, lists, links, code, highlights, tasks)
-- ✅ Plain text / Markdown upload support (textarea mode)
-- ✅ Auto-save with debounce (1.5s) and save status indicator
-- ✅ Inline document rename
-- ✅ .txt and .md file upload
-- ✅ Share with view or edit permissions
-- ✅ Per-document share management (add, change permission, revoke)
-- ✅ My Documents and Shared with Me dashboard
-- ✅ Word/character count in footer
+- Username-only login (no password, no email)
+- Rich text editing with Tiptap (bold, italic, headings, lists, links, code, highlights, tasks)
+- Plain text / Markdown upload support (textarea mode)
+- Auto-save with debounce (1.5s) and save status indicator
+- Inline document rename
+- .txt and .md file upload
+- Share with view or edit permissions
+- Per-document share management (add, change permission, revoke)
+- My Documents and Shared with Me dashboard
+- Word/character count in footer
